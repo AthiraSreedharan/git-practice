@@ -1,1 +1,2 @@
 Hello Git! 
+"Conflicting change on feature-1 branch" 
