@@ -1,2 +1,2 @@
-Hello Git! 
-"Change on master branch" 
+Change on master branch
+Conflicting change on feature-1 branch
